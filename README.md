@@ -6,7 +6,7 @@ This example shows how to use Flask 3 on Vercel with Serverless Functions using 
 
 ## Demo
 
-https://flask-tests-50f8jwyo0-4g0ldws-projects.vercel.app
+https://flask-tests-chi.vercel.app/
 
 ## How it Works
 
